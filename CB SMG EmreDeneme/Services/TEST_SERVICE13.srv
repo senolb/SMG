@@ -1,0 +1,17 @@
+<service id="9600000652625228" serviceName="TEST_SERVICE13" serviceType="N" active="1" channelId="001" batch="0" batchType="" ortam="CB">
+  <description>This name can be used.</description>
+  <hasTableLock>0</hasTableLock>
+  <reversalServiceOid></reversalServiceOid>
+  <className></className>
+  <tableName></tableName>
+  <methodName>sendTest</methodName>
+  <scClassName>cb.smg.deneme.bean.DenemeService</scClassName>
+  <target>0</target>
+  <ttype>0</ttype>
+  <visible>1</visible>
+  <platform>1</platform>
+  <componentId>9990000323526060</componentId>
+  <componentCmsOid>9990000323526060</componentCmsOid>
+  <componentCmsName>CB SMG EmreDeneme</componentCmsName>
+  <lastUpdated>1678795346785</lastUpdated>
+</service>

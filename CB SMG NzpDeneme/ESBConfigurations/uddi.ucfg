@@ -1,0 +1,15 @@
+<configuration id="9600000653053975" name="uddi.ucfg">
+  <content>[SDENEME]&#xd;
+	contenttype=application/json&#xd;
+	codepage=UTF8&#xd;
+	serviceType=rest&#xd;
+	tokenService = SDENEME&#xd;
+	restHeaderAutParam=Authorization&#xd;
+	endpoint = @[[NzpEndpoint]]&#xd;
+	&#xd;</content>
+  <version>1</version>
+  <componentId>9990000308681833</componentId>
+  <lastUpdated>1</lastUpdated>
+  <configurationType>5</configurationType>
+  <componentCmsOid>9990000308681833</componentCmsOid>
+</configuration>
