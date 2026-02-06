@@ -1,5 +1,5 @@
 package cb.smg.nzpdeneme;
 
 public class NzpTest {
-	private String deneme = "W";
+	private String deneme = "Y";
 }
