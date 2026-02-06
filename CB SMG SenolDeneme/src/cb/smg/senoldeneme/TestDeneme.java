@@ -6,6 +6,6 @@ public class TestDeneme {
 		// TODO Auto-generated method stub
 		System.out.println("deneme9");
 		System.out.println("deneme9");
-		System.out.println("deneme12");
+		System.out.println("deneme15");
 	}
 }

@@ -6,7 +6,7 @@ import cb.smg.general.utility.CBException;
 
 public class DenemeService implements CBBagKeys{
 	public static CBBag sendTest(CBBag testBag) throws CBException {
-		System.out.println("ssbgdgsd1S1221222");
+		System.out.println("ssbgdgsd1S1221222333");
 		
 		return testBag;
 	}
